@@ -1,8 +1,8 @@
 package org.example;
 
 public class AreaOfRectangle {
-    public int calculateArea(int i, int i1) {
+    public int calculateArea(int length, int breadth) {
 
-        return i*i1;
+        return length*breadth;
     }
 }
